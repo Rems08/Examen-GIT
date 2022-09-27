@@ -9,8 +9,8 @@
 - [x] Suivre les modifications de chaque fichier
 - [ ] Mettre en ligne un site web
 2) Git est un gestionnaire de version décentralisé
-- [ ]Faux
-- [x]Vrai
+- [ ] Faux
+- [x] Vrai
 3) Quelle commande permet d'initialiser son projet dans Git Bash ?
 - [x] git init
 - [ ] git start
